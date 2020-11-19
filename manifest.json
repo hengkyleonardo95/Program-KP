@@ -1,0 +1,24 @@
+{
+  "name": "Meeting scheduler",
+  "short_name": "Meeting",
+  "description": "Meeting Scheduler For Showroom",
+  "lang": "en-US",
+  "dir": "ltr",
+  "theme_color": "#414f57",
+  "start_url": ".",
+  "background_color": "#000",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "img/logo/merah.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo/merah.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
